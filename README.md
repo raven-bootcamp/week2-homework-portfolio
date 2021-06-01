@@ -11,7 +11,7 @@ We are to make use of our new skills in things like flexbox, media queries, and 
 Having said that, if we do not yet have enough work to fill in the required slots, we can use placeholder images and text and update it later.
 
 ## Acceptance Criteria
-These are the criteria that we need to follow:
+This is the list of Acceptance Criteria that we need to follow:
 ```
 GIVEN I need to sample a potential employee's previous work
 WHEN I load their portfolio
