@@ -1,6 +1,7 @@
 # Week 2 Homework: Portfolio
 
  - Homework solution (hosted using Github):
+   https://raven-bootcamp.github.io/week2-homework-portfolio/
    
  - Homework solution repository:
    https://github.com/raven-bootcamp/week2-homework-portfolio
